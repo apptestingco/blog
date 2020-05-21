@@ -2,4 +2,4 @@
 
 👋 Coming soon.
 
-To schedule an app test of your mobile app, please visit [apptesitng.co](https://apptesitng.co)
+[Schedule a free, comprehensive test of your mobile app](https://apptesting.co)
