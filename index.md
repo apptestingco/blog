@@ -1,5 +1,5 @@
 # AppTesting Blog
-
-Coming soon.
-
+  
+Coming soon.  
+  
 [Free comprehensive app testing services](https://apptesting.co)
